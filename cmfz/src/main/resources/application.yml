@@ -1,0 +1,11 @@
+server:
+  context-path: /cmfz
+  port: 8989
+  jsp-servlet:
+    init-parameters:
+      development: true
+spring:
+  mvc:
+    view:
+      prefix: /
+      suffix: .jsp

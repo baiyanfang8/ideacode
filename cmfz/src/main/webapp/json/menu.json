@@ -1,0 +1,28 @@
+[
+  {
+    "id":1,
+    "title":"轮播图模块",
+    "href":"/datagrid/album.jsp",
+    "iconCls":"icon-add",
+    "children":[
+      {
+        "id":2,
+        "title":"吉祥妙音",
+        "href":"/datagrid/album.jsp",
+        "iconCls":"icon-add"
+      },{
+        "id":3,
+        "title":"功课记录",
+        "href":"/login.jsp ",
+        "iconCls":"icon-add"
+      },{
+        "id":4,
+        "title":"我",
+        "href":"/login.jsp ",
+        "iconCls":"icon-add"
+      }
+    ]
+
+  }
+
+]

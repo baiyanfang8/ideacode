@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="svntext:war">
+    <output-path>$PROJECT_DIR$/svntext/target</output-path>
+    <root id="archive" name="svn-text.war">
+      <element id="artifact" artifact-name="svntext:war exploded" />
+    </root>
+  </artifact>
+</component>

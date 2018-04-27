@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot" />
+        <module name="springboot1" />
+        <module name="springboot2" />
+        <module name="svn" />
+        <module name="svn_day1" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="cmfz" target="1.7" />
+      <module name="cmfz1" target="1.7" />
+      <module name="springboot" target="1.6" />
+      <module name="springboot1" target="1.5" />
+      <module name="springboot2" target="1.5" />
+      <module name="svn" target="1.7" />
+      <module name="svn_day1" target="1.7" />
+      <module name="svntext" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

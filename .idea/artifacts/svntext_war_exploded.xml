@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="svntext:war exploded">
+    <output-path>$PROJECT_DIR$/svntext/target/svn-text</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="svntext" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/svntext/target/svn-text/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="svntext/web/Web" />
+    </root>
+  </artifact>
+</component>
